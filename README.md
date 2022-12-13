@@ -19,3 +19,7 @@ Deployment Details
 
 The contracts for this protocol were deployed on Avalanche Mainnet as they require the use of Chainlink Price Feeds, and the Ethereum Mainnet gas costs for contract deployment are too high. 
 Another issue is the fact that Goerli and Ropsten Testnets do not have price feeds in them, which are integral pieces of the Reserve Predictions Game.
+
+
+0x215F571F15482673de141f7F43f5624B62f86B46 - DummyToken
+0x3b1e4ebf269bcc8fe792ac8e1ce58e9e64e189da - predictions
